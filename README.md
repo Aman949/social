@@ -1,6 +1,6 @@
 # social
 
-A new Flutter project.
+Social is a platform to share your thoughts online and you can read other people thoughts too.
 
 ## Getting Started
 
