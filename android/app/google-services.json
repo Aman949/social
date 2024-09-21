@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344542308882",
+    "project_id": "basicapp-ee274",
+    "storage_bucket": "basicapp-ee274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344542308882:android:2d55c5b476f773adfe46cb",
+        "android_client_info": {
+          "package_name": "com.example.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhBFuZzB3zjymPzPKsopdFQDZjAa79PQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
